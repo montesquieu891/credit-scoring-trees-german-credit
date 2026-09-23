@@ -84,5 +84,5 @@ jupyter notebook notebooks/german_credit_trees_rf.ipynb
 
 ## Autor
 
-**Andrés**: estudiante de Ciencia de Datos (UNLP), con formación previa en Economía. Interesado en riesgo crediticio y finanzas cuantitativas.
-[LinkedIn](https://www.linkedin.com/in/USUARIO) · [GitHub](https://github.com/USUARIO)
+**Juan Andrés Fernandez**: estudiante de Ciencia de Datos (UNLP).
+[LinkedIn](https://www.linkedin.com/in/fernándezjuan) · [GitHub](https://github.com/montesquieu891)
